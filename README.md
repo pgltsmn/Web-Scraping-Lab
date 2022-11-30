@@ -18,5 +18,5 @@ In this lab, we will build a program where people can submit a URL of a google p
 
 If you have any questions ask an Instructor/TA
 
-*BONUS*: Display the titles by the order of how many downloads it has.
+*BONUS*: Display the titles by the order of how many downloads it has. <br>
 *BONUS* *BONUS*: Display the first 3 written reviews for each product with the name of the user.
