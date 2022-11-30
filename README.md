@@ -1,6 +1,6 @@
 # Web Scraping Lab
 
-## Lab 1: Basics
+## Google Play Scraping
 ### 1. Fork and clone this repository
 
 ### 2. Before you code
