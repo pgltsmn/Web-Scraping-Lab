@@ -10,7 +10,7 @@ To complete this lab, it's very important that you understand the example that w
 * .string.strip()
 
 ### 3. The lab
-In this lab, we will build a small program where people can submit a URL of a google play search, using web scraping we will display the app with the highest rating.
+In this lab, we will build a program where people can submit a URL of a google play search, using web scraping we will display the app with the highest rating.
 
 
 
