@@ -14,7 +14,7 @@ In this lab, we will build a program where people can submit a URL of a google p
 
   - You will be scraping from https://play.google.com, after a search. link example: https://play.google.com/store/search?q=subway+surfers&c=apps
   - Scrape all the links from the search the user and display the titles of the results (remember to inspect).
-  - Retrieve the ratings of the results and display the one with the result with the highest rating.
+  - Retrieve the ratings of the results and display the result with the highest rating.
 
 If you have any questions ask an Instructor/TA
 
