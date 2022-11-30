@@ -12,9 +12,11 @@ To complete this lab, it's very important that you understand the example that w
 ### 3. The lab
 In this lab, we will build a program where people can submit a URL of a google play search, using web scraping we will display the app with the highest rating.
 
-
+  - You will be scraping from https://play.google.com, after a search. link example: https://play.google.com/store/search?q=subway+surfers&c=apps
+  - Scrape all the links from the search the user and display the titles of the results (remember to inspect).
+  - Retrieve the ratings of the results and display the one with the result with the highest rating.
 
 If you have any questions ask an Instructor/TA
 
-*BONUS*: 
-*BONUS* *BONUS*: 
+*BONUS*: Display the titles by the order of how many downloads it has.
+*BONUS* *BONUS*: Display the first 3 written reviews for each product with the name of the user.
