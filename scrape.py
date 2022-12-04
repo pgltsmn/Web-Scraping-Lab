@@ -22,15 +22,17 @@ for link in links_list:
     soup_new = BeautifulSoup(website_new.content, "lxml")
 
     try:
+        title = soup_new.find('span', attrs={'class': 'DdYX5'}).string.strip()
         rating = soup_new.find('div', attrs={'class':'TT9eCd'})
         out_rating = rating['aria-label']
         all_words = out_rating.split()
         rating = all_words[1]
-        # int(rating)
         rating_list.append(rating)
        
     except:
         rating = ""
+
+    print (title)
 
     
 rating_list_int = [eval(i) for i in rating_list]
